@@ -18,6 +18,8 @@ Installing collected packages: psycopg2
 Successfully installed psycopg2-2.9.9
 ```
 
+PS: Сгенерировать файл requirements.txt можно при помощи команды `pip freeze > requirements.txt`
+
 ## Начало работы
 
 Для подключения к серверу БД нам необходимо знать:
